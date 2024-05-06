@@ -118,6 +118,7 @@ namespace MathQuiz
         {
             StartTheQuiz();
             startButton.Enabled = false;
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
